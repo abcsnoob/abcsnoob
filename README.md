@@ -29,4 +29,24 @@ Music is what keeps me focused—or sometimes, what helps me "stay lazy" effecti
 
 *“Coding less, but aiming for quality (maybe)”*
 
+### Tool, platform and programming language I work with:
+
+* **Programming Languages:**
+* **Java:** [Java Homepage](https://www.oracle.com/java/)
+* **Go:** [Go Homepage](https://go.dev/)
+* **Node.js:** [Node.js Homepage](https://nodejs.org/)
+* **Deno:** [Deno Homepage](https://deno.com/)
+
+
+* **Databases & Backend Infrastructure:**
+* **Supabase:** [Supabase Homepage](https://supabase.com/)
+* **Supabase Cloud:** [Supabase Cloud Console](https://www.google.com/search?q=https://database.new/)
+* **MongoDB Stack:** [MongoDB Homepage](https://www.mongodb.com/)
+
+
+* **Cloud, DevOps & Tools:**
+* **Docker:** [Docker Homepage](https://www.docker.com/)
+* **Google Cloud:** [Google Cloud Platform](https://cloud.google.com/)
+* **Cloudflare:** [Cloudflare Homepage](https://www.cloudflare.com/)
+* **MCA Selector:** [MCA Selector GitHub](https://github.com/querz/mcaselector)
 </div>
