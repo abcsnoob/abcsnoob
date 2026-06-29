@@ -14,12 +14,12 @@
 
 ---
 
-### 📊 my GitHub contributions last year
+###  my GitHub contributions last year
 <img width="824" height="109" alt="contribution" src="https://github.com/user-attachments/assets/6a5b44f0-7c2a-4d70-9987-1f95273b87e9" />
 
 ---
 
-### 🎧 The Soundtrack to My Workflow
+###  The Soundtrack to My Workflow
 I am a huge fan of **NCS (NoCopyrightSounds)**. 
 Music is what keeps me focused—or sometimes, what helps me "stay lazy" effectively.
 
